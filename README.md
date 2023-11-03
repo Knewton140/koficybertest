@@ -8,7 +8,7 @@
 
 <h2> 📄 Certifications<h2> 
   
-  - [Google Cybersecurity Certificate]([[(https://www.coursera.org/account/accomplishments/specialization/4J6HBTB7429X)](https://www.coursera.org/account/accomplishments/professional-cert/4J6HBTB7429X))
+  - [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/specialization/4J6HBTB7429X)
 
 <h2>📺 Popular YouTube Videos</h2>
   
