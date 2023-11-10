@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [SIEM| Azure Sentinel Tutorial MAP with Live Cyber Attacks Lab](https://github.com/koficybertest-Lab)
+  - [SIEM| Azure Sentinel Tutorial MAP with Live Cyber Attacks Lab](https://github.com/Kofiocyber1/Sentinel-Lab/tree/main)
   - [OpenVAS Vulnerability Management Tutorial Cybersecurity Lab](https://github.com/koficybertest-Lab)
 
 <h2> 📄 Certifications<h2> 
