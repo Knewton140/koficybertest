@@ -17,11 +17,13 @@
 - [Ai Animation Video](https://youtu.be/Wxxb6t2_aqE?si=fVdojIr55CqeGydJ)
 - [Kid Coding](https://youtu.be/JohmeHiOp0U?si=KITCr2V29bcwM7GC)
 - [Network Solutions Inc](https://youtu.be/55RokR_HBNs?si=BvbzNl0tMZq36NFf)
+- [website] (https://linktr.ee/CouplesProductions)
+- [linkedin] (https://linkedin.com/in/kofionewton)
 
 
 
 
 
-[website]: https://linktr.ee/CouplesProductions
-[linkedin]: https://linkedin.com/in/kofionewton
+
+
 
