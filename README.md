@@ -4,7 +4,7 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [SIEM| Azure Sentinel Tutorial MAP with Live Cyber Attacks Lab](https://github.com/Kofiocyber1/Sentinel-Lab/tree/main)
-  - [OpenVAS Vulnerability Management Tutorial Cybersecurity Lab](https://github.com/koficybertest-Lab)
+  - [OpenVAS Vulnerability Management Tutorial Cybersecurity Lab]([https://github.com/koficybertest-Lab](https://github.com/Kofiocyber1/OpenVAS-Vulnerability-Management)
 
 <h2> 📄 Certifications<h2> 
   
